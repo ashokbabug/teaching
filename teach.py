@@ -4,4 +4,4 @@ z=x+y
 a=10
 b=20
 c=b-a
-printf(z,a);
+print(z,a);
